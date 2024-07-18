@@ -1,0 +1,1 @@
+DB2 ERROR CODE -060	specifies INVALID type SPECIFICATION : spec.
