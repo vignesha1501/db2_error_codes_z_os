@@ -11,7 +11,9 @@ DB2 error -289: "Specifies that a deadlock condition has occurred during databas
 Difference between DB2 error codes -554 and -551:
 
 DB2 error code -554: "Authorization failure due to insufficient privileges for the requested operation."
+
 DB2 error code -551: "User does not have the necessary privileges to perform the SQL operation."
+
 DB2 error code -747: "Error indicating that an attempt was made to invoke a deprecated or unsupported feature or function within DB2."
 
 DB2 error code -060: "Denotes an invalid type specification error in the SQL statement, typically due to unsupported data type usage."
